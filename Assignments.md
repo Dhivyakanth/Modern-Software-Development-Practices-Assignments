@@ -23,16 +23,16 @@
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - https://github.com/Preethi2206/one-credit
 >
-> - Kindly submit the Live Application URL (Domain)
+> - https://prepmaster20.vercel.app
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://preethi2206.github.io/one-credit/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/dhivyakanth-p-409a30291_softwaredevelopment-aidevelopment-fullstack-activity-7444639948076490752-ZLMB?utm_source=share&utm_medium=member_android&rcm=ACoAAEbPPUkBu8ly0YEJZtfyb-PYWt9ijl73Qag
 
 ## For Second Year Buddies
 
